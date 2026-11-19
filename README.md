@@ -1,3 +1,4 @@
+### 🔗 [View Full Interactive Visual Report (with Charts & Tables)](https://josephkivane.github.io/paysim-fraud-detection-investigation/PaySim%20Financial%20Fraud%20Detection%20and%20Investigation.html)
 # PaySim Financial Fraud Detection and Investigation
 
 ## Project Overview
